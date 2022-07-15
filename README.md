@@ -77,8 +77,8 @@ sudo ./update.sh
 
 ### Something doesn't work?
 * Hit me up on [Github](https://github.com/Xcod3bughunt3r/katoolin3/issues/new/choose).
-* Please check [Maintenance](https://github.com/Xcod3bughunt3r/katoolin3/maintenance/blob/master/README.md)
-* [Changelog](https://github.com/Xcod3bughunt3r/katoolin3/maintenance/blob/master/Changelog.md)
+* Please check [Maintenance](https://github.com/Xcod3bughunt3r/katoolin3/blob/main/maintenance/README.md)
+* [Changelog](https://github.com/Xcod3bughunt3r/katoolin3/blob/main/Changelog.md)
 
 ### Uninstalling
 * To uninstall katoolin3 execute
